@@ -1,6 +1,5 @@
 package kz.aitu.advancedJava;
 
-
 import org.springframework.stereotype.Component;
 import javax.servlet.*;
 import javax.servlet.http.HttpServletRequest;
